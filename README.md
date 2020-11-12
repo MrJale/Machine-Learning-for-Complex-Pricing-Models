@@ -15,3 +15,5 @@
 2. Generated 432 features through feature transformation and group-by processing based on the distribution characteristics
 3. Developed regression model (LightGBM) to predict target variable using DART tree type and MSE as objective function
 4. Optimized model performance through hyper-parameters tuning and feature selection (123 features) based on importance
+
+![avatar](D:\Fordham\UBS\results\202010212.png)
