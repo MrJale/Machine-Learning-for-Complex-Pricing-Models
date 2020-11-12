@@ -16,4 +16,4 @@
 3. Developed regression model (LightGBM) to predict target variable using DART tree type and MSE as objective function
 4. Optimized model performance through hyper-parameters tuning and feature selection (123 features) based on importance
 
-![avatar](D:\\Fordham\\UBS\\results\\202010212.png)
+![GitHub](https://github.com/MrJale/Machine-Learning-for-Complex-Pricing-Models/blob/main/202010212.PNG)
