@@ -8,7 +8,7 @@
     15,000,000 samples with 164 features
     
 #### Outcome:
-    Ranked No. 1 out of 371 teams with MAE and MSE as 0.0269 and 0.000059 over test dataset on the global leaderboard.
+    Ranked No. 1 out of 371 teams with MAE and MSE as 0.0269 and 0.000059 over test dataset on the global leaderboard
     
 #### Project Details:
 1. Performed data engineering with Python to process disorganized datasets and divide data into 350 batches for scaling purpose
